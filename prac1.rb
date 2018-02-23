@@ -8,7 +8,7 @@ puts "this is the data"
 puts "this is added in branch 1"
 s = "hello there"
 puts "" + s[7,2] 
-loop do
+
 puts "enter 1. addition  2.subtraction  3.multiplication   4.division"
 
 n = gets.chomp
@@ -47,10 +47,6 @@ end
 
 
 
-   puts "do you want to continue press 1"
-	x = gets.chomp
-    break if (x!=1)
-end
 
 
 
