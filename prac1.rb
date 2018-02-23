@@ -47,7 +47,12 @@ end
 
 
 
-
+x1 =  1
+y1 =  11
+while x1 <  y1  do
+  print  x1 ,". Ruby while loop.\n"
+  x1 +=1 
+ end
 
 
 
